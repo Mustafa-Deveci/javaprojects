@@ -14,7 +14,7 @@ public class EbobBulma {
 
         int ebob = 1;
         int kontrol = 2;
-        while (kontrol <= sayi1 && kontrol <= sayi1) {
+        while (kontrol <= sayi1 && kontrol <= sayi2) {
             if (sayi1 % kontrol == 0 && sayi2 % kontrol == 0) {
                 ebob = kontrol;
             }
