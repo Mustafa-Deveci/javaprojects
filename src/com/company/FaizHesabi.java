@@ -9,7 +9,7 @@ public class FaizHesabi {
         System.out.print("Para miktarı giriniz : ");
         int miktar = s.nextInt();
 
-        System.out.print("AY cinsinden zaman giriniz : ");
+        System.out.print("ay cinsinden zaman giriniz : ");
         int ayZaman = s.nextInt();
 
         System.out.print("Faiz oranını giriniz : ");
