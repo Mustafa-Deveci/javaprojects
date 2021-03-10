@@ -12,7 +12,7 @@ public class TekCift {
 
         switch (kalan) {
             case 0:
-                System.out.println("Girdiğini sayı çifttir.");
+                System.out.println("Girdiğiniz sayı çifttir.");
                 break;
             case 1:
                 System.out.println("Girdiğiniz sayı tektir.");
